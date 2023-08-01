@@ -1,0 +1,17 @@
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestionTH\SistemaGestionTH.Infra.Data\bin\Debug\net6.0\SistemaGestionTH.Infra.Data.deps.json
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestionTH\SistemaGestionTH.Infra.Data\bin\Debug\net6.0\SistemaGestionTH.Infra.Data.runtimeconfig.json
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestionTH\SistemaGestionTH.Infra.Data\bin\Debug\net6.0\SistemaGestionTH.Infra.Data.dll
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestionTH\SistemaGestionTH.Infra.Data\bin\Debug\net6.0\SistemaGestionTH.Infra.Data.pdb
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestionTH\SistemaGestionTH.Infra.Data\bin\Debug\net6.0\SistemaGestionTH.Domain.dll
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestionTH\SistemaGestionTH.Infra.Data\bin\Debug\net6.0\SistemaGestionTH.Domain.pdb
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestionTH\SistemaGestionTH.Infra.Data\obj\Debug\net6.0\SistemaGestionTH.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestionTH\SistemaGestionTH.Infra.Data\obj\Debug\net6.0\SistemaGestionTH.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestionTH\SistemaGestionTH.Infra.Data\obj\Debug\net6.0\SistemaGestionTH.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestionTH\SistemaGestionTH.Infra.Data\obj\Debug\net6.0\SistemaGestionTH.Infra.Data.AssemblyInfo.cs
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestionTH\SistemaGestionTH.Infra.Data\obj\Debug\net6.0\SistemaGestionTH.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestionTH\SistemaGestionTH.Infra.Data\obj\Debug\net6.0\SistemaGestionTH.Infra.Data.csproj.CopyComplete
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestionTH\SistemaGestionTH.Infra.Data\obj\Debug\net6.0\SistemaGestionTH.Infra.Data.dll
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestionTH\SistemaGestionTH.Infra.Data\obj\Debug\net6.0\refint\SistemaGestionTH.Infra.Data.dll
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestionTH\SistemaGestionTH.Infra.Data\obj\Debug\net6.0\SistemaGestionTH.Infra.Data.pdb
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestionTH\SistemaGestionTH.Infra.Data\obj\Debug\net6.0\SistemaGestionTH.Infra.Data.genruntimeconfig.cache
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestionTH\SistemaGestionTH.Infra.Data\obj\Debug\net6.0\ref\SistemaGestionTH.Infra.Data.dll

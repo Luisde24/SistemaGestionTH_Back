@@ -1,0 +1,17 @@
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestion_ARQHEX\SistemaGestion_ARQHEX.Infra.Data\bin\Debug\net6.0\SistemaGestion_ARQHEX.Infra.Data.deps.json
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestion_ARQHEX\SistemaGestion_ARQHEX.Infra.Data\bin\Debug\net6.0\SistemaGestion_ARQHEX.Infra.Data.runtimeconfig.json
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestion_ARQHEX\SistemaGestion_ARQHEX.Infra.Data\bin\Debug\net6.0\SistemaGestion_ARQHEX.Infra.Data.dll
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestion_ARQHEX\SistemaGestion_ARQHEX.Infra.Data\bin\Debug\net6.0\SistemaGestion_ARQHEX.Infra.Data.pdb
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestion_ARQHEX\SistemaGestion_ARQHEX.Infra.Data\bin\Debug\net6.0\SistemaGestion_ARQHEX.Domain.dll
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestion_ARQHEX\SistemaGestion_ARQHEX.Infra.Data\bin\Debug\net6.0\SistemaGestion_ARQHEX.Domain.pdb
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestion_ARQHEX\SistemaGestion_ARQHEX.Infra.Data\obj\Debug\net6.0\SistemaGestion_ARQHEX.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestion_ARQHEX\SistemaGestion_ARQHEX.Infra.Data\obj\Debug\net6.0\SistemaGestion_ARQHEX.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestion_ARQHEX\SistemaGestion_ARQHEX.Infra.Data\obj\Debug\net6.0\SistemaGestion_ARQHEX.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestion_ARQHEX\SistemaGestion_ARQHEX.Infra.Data\obj\Debug\net6.0\SistemaGestion_ARQHEX.Infra.Data.AssemblyInfo.cs
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestion_ARQHEX\SistemaGestion_ARQHEX.Infra.Data\obj\Debug\net6.0\SistemaGestion_ARQHEX.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestion_ARQHEX\SistemaGestion_ARQHEX.Infra.Data\obj\Debug\net6.0\SistemaGestion_ARQHEX.Infra.Data.csproj.CopyComplete
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestion_ARQHEX\SistemaGestion_ARQHEX.Infra.Data\obj\Debug\net6.0\SistemaGestion_ARQHEX.Infra.Data.dll
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestion_ARQHEX\SistemaGestion_ARQHEX.Infra.Data\obj\Debug\net6.0\refint\SistemaGestion_ARQHEX.Infra.Data.dll
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestion_ARQHEX\SistemaGestion_ARQHEX.Infra.Data\obj\Debug\net6.0\SistemaGestion_ARQHEX.Infra.Data.pdb
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestion_ARQHEX\SistemaGestion_ARQHEX.Infra.Data\obj\Debug\net6.0\SistemaGestion_ARQHEX.Infra.Data.genruntimeconfig.cache
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestion_ARQHEX\SistemaGestion_ARQHEX.Infra.Data\obj\Debug\net6.0\ref\SistemaGestion_ARQHEX.Infra.Data.dll

@@ -1,0 +1,12 @@
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestion_ARQHEX\SistemaGestion_ARQHEX.Dominio\bin\Debug\net6.0\SistemaGestion_ARQHEX.Domain.deps.json
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestion_ARQHEX\SistemaGestion_ARQHEX.Dominio\bin\Debug\net6.0\SistemaGestion_ARQHEX.Domain.dll
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestion_ARQHEX\SistemaGestion_ARQHEX.Dominio\bin\Debug\net6.0\SistemaGestion_ARQHEX.Domain.pdb
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestion_ARQHEX\SistemaGestion_ARQHEX.Dominio\obj\Debug\net6.0\SistemaGestion_ARQHEX.Domain.csproj.AssemblyReference.cache
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestion_ARQHEX\SistemaGestion_ARQHEX.Dominio\obj\Debug\net6.0\SistemaGestion_ARQHEX.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestion_ARQHEX\SistemaGestion_ARQHEX.Dominio\obj\Debug\net6.0\SistemaGestion_ARQHEX.Domain.AssemblyInfoInputs.cache
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestion_ARQHEX\SistemaGestion_ARQHEX.Dominio\obj\Debug\net6.0\SistemaGestion_ARQHEX.Domain.AssemblyInfo.cs
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestion_ARQHEX\SistemaGestion_ARQHEX.Dominio\obj\Debug\net6.0\SistemaGestion_ARQHEX.Domain.csproj.CoreCompileInputs.cache
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestion_ARQHEX\SistemaGestion_ARQHEX.Dominio\obj\Debug\net6.0\SistemaGestion_ARQHEX.Domain.dll
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestion_ARQHEX\SistemaGestion_ARQHEX.Dominio\obj\Debug\net6.0\refint\SistemaGestion_ARQHEX.Domain.dll
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestion_ARQHEX\SistemaGestion_ARQHEX.Dominio\obj\Debug\net6.0\SistemaGestion_ARQHEX.Domain.pdb
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestion_ARQHEX\SistemaGestion_ARQHEX.Dominio\obj\Debug\net6.0\ref\SistemaGestion_ARQHEX.Domain.dll

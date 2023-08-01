@@ -1,0 +1,320 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\david de hoyos.BOGPXOL064\\Desktop\\Arquitecturas\\SistemaGestion_ARQHEX\\SistemaGestion_ARQHEX.Infra.IoC\\SistemaGestion_ARQHEX.Infra.IoC.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\david de hoyos.BOGPXOL064\\Desktop\\Arquitecturas\\SistemaGestion_ARQHEX\\SistemaGestion_ARQHEX.Application\\SistemaGestion_ARQHEX.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\david de hoyos.BOGPXOL064\\Desktop\\Arquitecturas\\SistemaGestion_ARQHEX\\SistemaGestion_ARQHEX.Application\\SistemaGestion_ARQHEX.Application.csproj",
+        "projectName": "SistemaGestion_ARQHEX.Application",
+        "projectPath": "C:\\Users\\david de hoyos.BOGPXOL064\\Desktop\\Arquitecturas\\SistemaGestion_ARQHEX\\SistemaGestion_ARQHEX.Application\\SistemaGestion_ARQHEX.Application.csproj",
+        "packagesPath": "C:\\Users\\david de hoyos.BOGPXOL064\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\david de hoyos.BOGPXOL064\\Desktop\\Arquitecturas\\SistemaGestion_ARQHEX\\SistemaGestion_ARQHEX.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\david de hoyos.BOGPXOL064\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\david de hoyos.BOGPXOL064\\Desktop\\Arquitecturas\\SistemaGestion_ARQHEX\\SistemaGestion_ARQHEX.Dominio\\SistemaGestion_ARQHEX.Domain.csproj": {
+                "projectPath": "C:\\Users\\david de hoyos.BOGPXOL064\\Desktop\\Arquitecturas\\SistemaGestion_ARQHEX\\SistemaGestion_ARQHEX.Dominio\\SistemaGestion_ARQHEX.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\david de hoyos.BOGPXOL064\\Desktop\\Arquitecturas\\SistemaGestion_ARQHEX\\SistemaGestion_ARQHEX.Dominio\\SistemaGestion_ARQHEX.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\david de hoyos.BOGPXOL064\\Desktop\\Arquitecturas\\SistemaGestion_ARQHEX\\SistemaGestion_ARQHEX.Dominio\\SistemaGestion_ARQHEX.Domain.csproj",
+        "projectName": "SistemaGestion_ARQHEX.Domain",
+        "projectPath": "C:\\Users\\david de hoyos.BOGPXOL064\\Desktop\\Arquitecturas\\SistemaGestion_ARQHEX\\SistemaGestion_ARQHEX.Dominio\\SistemaGestion_ARQHEX.Domain.csproj",
+        "packagesPath": "C:\\Users\\david de hoyos.BOGPXOL064\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\david de hoyos.BOGPXOL064\\Desktop\\Arquitecturas\\SistemaGestion_ARQHEX\\SistemaGestion_ARQHEX.Dominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\david de hoyos.BOGPXOL064\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\david de hoyos.BOGPXOL064\\Desktop\\Arquitecturas\\SistemaGestion_ARQHEX\\SistemaGestion_ARQHEX.Infra.Data\\SistemaGestion_ARQHEX.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\david de hoyos.BOGPXOL064\\Desktop\\Arquitecturas\\SistemaGestion_ARQHEX\\SistemaGestion_ARQHEX.Infra.Data\\SistemaGestion_ARQHEX.Infra.Data.csproj",
+        "projectName": "SistemaGestion_ARQHEX.Infra.Data",
+        "projectPath": "C:\\Users\\david de hoyos.BOGPXOL064\\Desktop\\Arquitecturas\\SistemaGestion_ARQHEX\\SistemaGestion_ARQHEX.Infra.Data\\SistemaGestion_ARQHEX.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\david de hoyos.BOGPXOL064\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\david de hoyos.BOGPXOL064\\Desktop\\Arquitecturas\\SistemaGestion_ARQHEX\\SistemaGestion_ARQHEX.Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\david de hoyos.BOGPXOL064\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\david de hoyos.BOGPXOL064\\Desktop\\Arquitecturas\\SistemaGestion_ARQHEX\\SistemaGestion_ARQHEX.Dominio\\SistemaGestion_ARQHEX.Domain.csproj": {
+                "projectPath": "C:\\Users\\david de hoyos.BOGPXOL064\\Desktop\\Arquitecturas\\SistemaGestion_ARQHEX\\SistemaGestion_ARQHEX.Dominio\\SistemaGestion_ARQHEX.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "None",
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "None",
+              "target": "Package",
+              "version": "[6.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\david de hoyos.BOGPXOL064\\Desktop\\Arquitecturas\\SistemaGestion_ARQHEX\\SistemaGestion_ARQHEX.Infra.IoC\\SistemaGestion_ARQHEX.Infra.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\david de hoyos.BOGPXOL064\\Desktop\\Arquitecturas\\SistemaGestion_ARQHEX\\SistemaGestion_ARQHEX.Infra.IoC\\SistemaGestion_ARQHEX.Infra.IoC.csproj",
+        "projectName": "SistemaGestion_ARQHEX.Infra.IoC",
+        "projectPath": "C:\\Users\\david de hoyos.BOGPXOL064\\Desktop\\Arquitecturas\\SistemaGestion_ARQHEX\\SistemaGestion_ARQHEX.Infra.IoC\\SistemaGestion_ARQHEX.Infra.IoC.csproj",
+        "packagesPath": "C:\\Users\\david de hoyos.BOGPXOL064\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\david de hoyos.BOGPXOL064\\Desktop\\Arquitecturas\\SistemaGestion_ARQHEX\\SistemaGestion_ARQHEX.Infra.IoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\david de hoyos.BOGPXOL064\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\david de hoyos.BOGPXOL064\\Desktop\\Arquitecturas\\SistemaGestion_ARQHEX\\SistemaGestion_ARQHEX.Application\\SistemaGestion_ARQHEX.Application.csproj": {
+                "projectPath": "C:\\Users\\david de hoyos.BOGPXOL064\\Desktop\\Arquitecturas\\SistemaGestion_ARQHEX\\SistemaGestion_ARQHEX.Application\\SistemaGestion_ARQHEX.Application.csproj"
+              },
+              "C:\\Users\\david de hoyos.BOGPXOL064\\Desktop\\Arquitecturas\\SistemaGestion_ARQHEX\\SistemaGestion_ARQHEX.Dominio\\SistemaGestion_ARQHEX.Domain.csproj": {
+                "projectPath": "C:\\Users\\david de hoyos.BOGPXOL064\\Desktop\\Arquitecturas\\SistemaGestion_ARQHEX\\SistemaGestion_ARQHEX.Dominio\\SistemaGestion_ARQHEX.Domain.csproj"
+              },
+              "C:\\Users\\david de hoyos.BOGPXOL064\\Desktop\\Arquitecturas\\SistemaGestion_ARQHEX\\SistemaGestion_ARQHEX.Infra.Data\\SistemaGestion_ARQHEX.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\david de hoyos.BOGPXOL064\\Desktop\\Arquitecturas\\SistemaGestion_ARQHEX\\SistemaGestion_ARQHEX.Infra.Data\\SistemaGestion_ARQHEX.Infra.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

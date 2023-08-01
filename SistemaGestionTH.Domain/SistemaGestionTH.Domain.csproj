@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Areas\**" />
+    <Compile Remove="Employees\**" />
+    <Compile Remove="EntitiesDtos\**" />
+    <Compile Remove="Mapping\**" />
+    <EmbeddedResource Remove="Areas\**" />
+    <EmbeddedResource Remove="Employees\**" />
+    <EmbeddedResource Remove="EntitiesDtos\**" />
+    <EmbeddedResource Remove="Mapping\**" />
+    <None Remove="Areas\**" />
+    <None Remove="Employees\**" />
+    <None Remove="EntitiesDtos\**" />
+    <None Remove="Mapping\**" />
+  </ItemGroup>
+
+</Project>

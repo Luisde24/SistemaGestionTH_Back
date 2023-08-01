@@ -1,0 +1,12 @@
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestionTH\SistemaGestionTH.Domain\bin\Debug\net6.0\SistemaGestionTH.Domain.deps.json
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestionTH\SistemaGestionTH.Domain\bin\Debug\net6.0\SistemaGestionTH.Domain.dll
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestionTH\SistemaGestionTH.Domain\bin\Debug\net6.0\SistemaGestionTH.Domain.pdb
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestionTH\SistemaGestionTH.Domain\obj\Debug\net6.0\SistemaGestionTH.Domain.csproj.AssemblyReference.cache
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestionTH\SistemaGestionTH.Domain\obj\Debug\net6.0\SistemaGestionTH.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestionTH\SistemaGestionTH.Domain\obj\Debug\net6.0\SistemaGestionTH.Domain.AssemblyInfoInputs.cache
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestionTH\SistemaGestionTH.Domain\obj\Debug\net6.0\SistemaGestionTH.Domain.AssemblyInfo.cs
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestionTH\SistemaGestionTH.Domain\obj\Debug\net6.0\SistemaGestionTH.Domain.csproj.CoreCompileInputs.cache
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestionTH\SistemaGestionTH.Domain\obj\Debug\net6.0\SistemaGestionTH.Domain.dll
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestionTH\SistemaGestionTH.Domain\obj\Debug\net6.0\refint\SistemaGestionTH.Domain.dll
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestionTH\SistemaGestionTH.Domain\obj\Debug\net6.0\SistemaGestionTH.Domain.pdb
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestionTH\SistemaGestionTH.Domain\obj\Debug\net6.0\ref\SistemaGestionTH.Domain.dll

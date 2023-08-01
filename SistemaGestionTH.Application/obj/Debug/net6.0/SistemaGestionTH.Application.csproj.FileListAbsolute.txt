@@ -1,0 +1,15 @@
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestionTH\SistemaGestionTH.Application\bin\Debug\net6.0\SistemaGestionTH.Application.deps.json
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestionTH\SistemaGestionTH.Application\bin\Debug\net6.0\SistemaGestionTH.Application.dll
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestionTH\SistemaGestionTH.Application\bin\Debug\net6.0\SistemaGestionTH.Application.pdb
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestionTH\SistemaGestionTH.Application\bin\Debug\net6.0\SistemaGestionTH.Domain.dll
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestionTH\SistemaGestionTH.Application\bin\Debug\net6.0\SistemaGestionTH.Domain.pdb
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestionTH\SistemaGestionTH.Application\obj\Debug\net6.0\SistemaGestionTH.Application.csproj.AssemblyReference.cache
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestionTH\SistemaGestionTH.Application\obj\Debug\net6.0\SistemaGestionTH.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestionTH\SistemaGestionTH.Application\obj\Debug\net6.0\SistemaGestionTH.Application.AssemblyInfoInputs.cache
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestionTH\SistemaGestionTH.Application\obj\Debug\net6.0\SistemaGestionTH.Application.AssemblyInfo.cs
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestionTH\SistemaGestionTH.Application\obj\Debug\net6.0\SistemaGestionTH.Application.csproj.CoreCompileInputs.cache
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestionTH\SistemaGestionTH.Application\obj\Debug\net6.0\SistemaGestionTH.Application.csproj.CopyComplete
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestionTH\SistemaGestionTH.Application\obj\Debug\net6.0\SistemaGestionTH.Application.dll
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestionTH\SistemaGestionTH.Application\obj\Debug\net6.0\refint\SistemaGestionTH.Application.dll
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestionTH\SistemaGestionTH.Application\obj\Debug\net6.0\SistemaGestionTH.Application.pdb
+C:\Users\david de hoyos.BOGPXOL064\Desktop\Arquitecturas\SistemaGestionTH\SistemaGestionTH.Application\obj\Debug\net6.0\ref\SistemaGestionTH.Application.dll
